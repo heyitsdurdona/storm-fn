@@ -747,6 +747,18 @@
   .mb-\[57px\] {
     margin-bottom: 57px;
   }
+  .mb-\[96ox\] {
+    margin-bottom: 96ox;
+  }
+  .mb-\[96px\] {
+    margin-bottom: 96px;
+  }
+  .mb-\[97px\] {
+    margin-bottom: 97px;
+  }
+  .mb-\[147px\] {
+    margin-bottom: 147px;
+  }
   .box-border {
     box-sizing: border-box;
   }
@@ -1281,8 +1293,17 @@
   .gap-\[30px\] {
     gap: 30px;
   }
+  .gap-\[32px\] {
+    gap: 32px;
+  }
   .gap-\[54px\] {
     gap: 54px;
+  }
+  .gap-\[62px\] {
+    gap: 62px;
+  }
+  .gap-\[72px\] {
+    gap: 72px;
   }
   .space-y-reverse {
     :where(& > :not(:last-child)) {
@@ -1713,6 +1734,9 @@
   .p-1 {
     padding: calc(var(--spacing) * 1);
   }
+  .p-8 {
+    padding: calc(var(--spacing) * 8);
+  }
   .px-\[15px\] {
     padding-inline: 15px;
   }
@@ -1748,6 +1772,9 @@
   }
   .pb-\[87px\] {
     padding-bottom: 87px;
+  }
+  .pb-\[97px\] {
+    padding-bottom: 97px;
   }
   .pb-\[124px\] {
     padding-bottom: 124px;
